@@ -10,7 +10,8 @@ A GUI-based event scheduler that lets the user create, edit, and search for even
 
 
 
-![alt text](http://github.com/qwerty50000a/event-scheduler/sc1.png)
+
+![alt text](https://github.com/qwerty50000a/event-scheduler/blob/master/sc1.png)
 
 
 # Implementation
